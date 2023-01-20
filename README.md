@@ -1,4 +1,4 @@
-![background](https://user-images.githubusercontent.com/99628526/213618222-ad384054-4b54-4fa5-9a33-6958e2c79e7a.jpg)
+![background](https://user-images.githubusercontent.com/99628526/213618540-28b13cda-36cb-4e59-844e-45265de41e47.jpg)
 <h1 align="center">Hi, I'm Camila</h1>
 <h3 align="center">Based in Phoenix, Arizona</h3>
 
