@@ -1,13 +1,13 @@
 ![background](https://user-images.githubusercontent.com/99628526/213618540-28b13cda-36cb-4e59-844e-45265de41e47.jpg)
 <h3 align="center">Based in Phoenix, Arizona</h3>
 
-- 👩‍💻 I’m currently working on **my website portfolio.**
+- 👩🏻‍💻 I’m currently working on **my website portfolio.**
 
-- 🤖 I’m currently learning **React and Node.js**
+- 📋 I’m currently learning **React and Node.js**
 
-- 🤝 I’m looking to collaborate on **recifoodie.**
+- ♾️ I’m looking to collaborate on **recifoodie.**
 
-- 💬 Ask me about **my first full-stack application using Java and Spring Boot**
+- 🗯️ Ask me about **my first full-stack application using Java and Spring Boot**
 
 - ✉ How to reach me **camilax.gomez97@gmail.com**
 
