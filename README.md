@@ -1,6 +1,6 @@
 ![background](https://user-images.githubusercontent.com/99628526/213617570-ada62e24-ea26-4233-bd0a-4c1a5c3d1fa9.jpg)
 <h1 align="center">Hi, I'm Camila</h1>
-<h3 align="center">A creative Software engineer from Phoenix, Arizona</h3>
+<h3 align="center">Based in Phoenix, Arizona</h3>
 
 - 🔭 I’m currently working on **my website portfolio.**
 
