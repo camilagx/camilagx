@@ -9,7 +9,7 @@
 
 - 🗯️ Ask me about **my first full-stack application using Java and Spring Boot**
 
-- ✉ How to reach me **camilax.gomez97@gmail.com**
+- ✉ How to reach me: **camilax.gomez97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
