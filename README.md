@@ -1,19 +1,19 @@
 ![background](https://user-images.githubusercontent.com/99628526/213618540-28b13cda-36cb-4e59-844e-45265de41e47.jpg)
 <h3 align="center">Based in Atlanta, Georgia</h3>
 
-- 👩🏻‍💻 I’m currently working on an **EventManager** mobile app.
+- 👩🏻‍💻 I’m currently working on an **ministry web**.
 
-- 📋 I’m currently learning **Kotlin and React**
+- 📋 I’m currently learning **React Native**
 
 - ♾️ I’m looking to collaborate on **recifoodie.**
 
-- 🗯️ Ask me about **my first full-stack application using Java and Spring Boot**
+- 🗯️ Ask me about **my first mobile application!**
 
-- ✉ How to reach me: **camilax.gomez97@gmail.com**
+- ✉ How to reach me: **camila.cp.gomez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/webdevmila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevmila" height="30" width="40" /></a>
+<a href="https://twitter.com/gocamiladevgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gocamiladevgo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/camilagx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilagx" height="30" width="40" /></a>
 </p>
 
