@@ -1,7 +1,7 @@
 ![background](https://user-images.githubusercontent.com/99628526/213618540-28b13cda-36cb-4e59-844e-45265de41e47.jpg)
 <h3 align="center">Based in Atlanta, Georgia</h3>
 
-- 👩🏻‍💻 I’m currently working on an **ministry web**.
+- 👩🏻‍💻 I’m currently working on the **ministry web**.
 
 - 📋 I’m currently learning **React Native**
 
